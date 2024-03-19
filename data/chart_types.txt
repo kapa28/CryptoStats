@@ -1,0 +1,3 @@
+https://www.chartjs.org/
+https://observablehq.com/@d3/brushable-scatterplot-matrix?intent=fork + https://d3js.org/getting-started
+https://www.highcharts.com/demo/highcharts/arearange
